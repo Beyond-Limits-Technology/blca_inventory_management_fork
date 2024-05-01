@@ -1,4 +1,4 @@
-## Inventory Management
+## Inventory Management Offline
 
 ## App Story
 1. user can be choose shop or if empty create new one
