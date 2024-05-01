@@ -1,4 +1,4 @@
-## Inventory Management With sql
+## Inventory Management
 
 ## App Story
 1. user can be choose shop or if empty create new one
